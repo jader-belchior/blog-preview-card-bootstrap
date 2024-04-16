@@ -1,0 +1,27 @@
+.rounded-more {
+  border-radius: 15px;
+}
+
+.fs-small {
+  font-size: 12px;
+}
+
+.d-flex.align-items-center img {
+  width: 30px;
+}
+
+.container {
+  align-self: center;
+}
+
+.border.border-dark {
+  box-shadow: 10px 10px 5px black;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
